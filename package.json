@@ -1,0 +1,29 @@
+{
+  "name": "mara-e2e-mobile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collinsmara/mara-e2e-mobile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/collinsmara/mara-e2e-mobile/issues"
+  },
+  "homepage": "https://github.com/collinsmara/mara-e2e-mobile#readme",
+  "dependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/register": "^7.18.9",
+    "appium": "^1.22.3",
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0",
+    "wd": "^1.14.0"
+  }
+ 
+}
